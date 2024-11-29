@@ -1,6 +1,6 @@
 # Building Neural Networks from Scratch
 
-`./neural_network.ipynb` is a simple implementation of a neural network from scratch. It uses the MSE loss function and the ReLU activation function..
+`./neural_network.ipynb` is a simple implementation of a neural network from scratch. It uses the MSE loss function and the ReLU activation function.
 
 ## 1. Why do we need Neural Network?
 
